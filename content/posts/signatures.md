@@ -6,4 +6,5 @@ draft: false
 
 - Nick Cao ([@NickCao](https://github.com/NickCao))
 - Cab ([@cab404](https://github.com/cab404))
+- Chris McDonough ([@mcdonc](https://github.com/mcdonc))
 <!-- Insert your signature above here, using the format above.>
