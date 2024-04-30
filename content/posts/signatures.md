@@ -8,4 +8,5 @@ draft: false
 - Cab ([@cab404](https://github.com/cab404))
 - Chris McDonough ([@mcdonc](https://github.com/mcdonc))
 - Lana Black ([@greydot](https://github.com/greydot))
+- NotAShelf ([@notashelf](https://github.com/notashelf))
 <!-- Insert your signature above here, using the format above.>
