@@ -10,4 +10,5 @@ draft: false
 - Lana Black ([@greydot](https://github.com/greydot))
 - NotAShelf ([@notashelf](https://github.com/notashelf))
 - gwen ([@elythh](https://github.com/elythh))
+- sioodmy ([@sioodmy](https://github.com/sioodmy))
 <!-- Insert your signature above here, using the format above.>
